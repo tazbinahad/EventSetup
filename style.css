@@ -1,0 +1,20 @@
+.container {
+  max-width: 768px;
+  margin: 0 auto;
+}
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: underline;
+  color: blue;
+}
+.remainigTime {
+  display: flex;
+  justify-content: space-around;
+}
+.day,
+.hour,
+.minute,
+.secound {
+  text-align: center;
+}
